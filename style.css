@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box-wrapper{
+    display: flex;
+}
+.box{
+    width: 150px;
+    height: 200px;
+    background: #eee;
+    flex: 1;
+    margin: .5rem;
+    background: #dfbc5e;
+    
+}
